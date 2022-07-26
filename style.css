@@ -1,0 +1,35 @@
+/* span font family added */
+.font-family{
+    font-family: 'Anek Latin', sans-serif;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.font-size{
+    font-size: 70px;
+}
+.header-part{
+    background-color: #FFF9F4;
+    padding-bottom: 80px;
+}
+.text-part{
+    margin-left: 100px;
+}
+.color{
+    color: #FA804C;
+}
+.background-color{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    margin: 15px;
+}
+.question-part{
+    margin-top: 20px;
+}
+.m-top{
+    margin-top: 150px;
+}
+.size{
+    height: 82px;
+    width: 80px;
+}
